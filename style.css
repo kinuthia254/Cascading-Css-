@@ -10,3 +10,19 @@ p {
   margin: 0;
   padding: 0;
 }
+
+#outer-box {
+  border: 10px solid black;
+}
+
+.white-text {
+  background-color: red;
+  padding: 10px;
+  color: white;
+}
+
+p,
+.box {
+  color: yellow;
+  padding: 10px;
+}
